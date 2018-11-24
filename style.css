@@ -296,3 +296,10 @@ main {
   100% { opacity: 1.0; }
 }
 
+@media screen and (max-width: 768px) {
+    
+    #alert {
+        width: 80%;
+    }
+    
+}
